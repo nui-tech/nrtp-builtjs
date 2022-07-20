@@ -1,0 +1,37 @@
+{
+    "app": {
+      "version": 1.0,
+      "apiVersion": 1.1,
+      "displayName": "Corporate Tailwind",
+      "description": "Small business theme with basic Tailwind styling.",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/builtjs/builtjs-theme-corporate-tailwind/public/images/theme.png",
+      "repoName": "builtjs/builtjs-theme-corporate-tailwind",
+      "gitProvider": "github",
+      "repoUrl": "https://github.com/builtjs/builtjs-theme-corporate-tailwind",
+      "demoUrl": "https://builtjs-theme-corporate-tailwind.vercel.app",
+      "modules": [
+        {
+          "slug": "main"
+        },
+        {
+          "slug": "services"
+        },
+        {
+          "slug": "blog"
+        },
+        {
+          "slug": "features"
+        },
+        {
+          "slug": "Benefits"
+        },
+        {
+          "slug": "about"
+        },
+        {
+          "slug": "contact"
+        }
+      ]
+    }
+  }
+  

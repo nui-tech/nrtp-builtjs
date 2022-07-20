@@ -1,0 +1,84 @@
+{
+  "modules": [
+    {
+      "slug": "introduce",
+      "displayName": "Introduce",
+      "description": "Familiarizes users with your product or service",
+      "required": true,
+      "pageSections": [
+        {
+          "slug": "home-base"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "displayName": "Contact",
+      "description": "Encourages and facilitates making contact",
+      "pageSections": [
+        {
+          "slug": "contact-base"
+        },
+        {
+          "slug": "services-contact-teaser"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "displayName": "About",
+      "description": "Provides information related to the organisation",
+      "pageSections": [
+        {
+          "slug": "about-base"
+        },
+        {
+          "slug": "home-about-teaser"
+        }
+      ]
+    },
+    {
+      "slug": "blog",
+      "displayName": "Blog",
+      "description": "Displays informal diary-style entries",
+      "pageSections": [
+        {
+          "slug": "blog-base"
+        },
+        {
+          "slug": "blog-archive1"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "displayName": "Services",
+      "description": "Provides information about main services",
+      "pageSections": [
+        {
+          "slug": "services-base"
+        }
+      ]
+    },
+    {
+      "slug": "features",
+      "displayName": "Features",
+      "description": "Provides information about main features of offering",
+      "pageSections": [
+        {
+          "slug": "home-features"
+        }
+      ]
+    },
+    {
+      "slug": "benefits",
+      "displayName": "Benefits",
+      "description": "Displays main benefits of using offering",
+      "pageSections": [
+        {
+          "slug": "home-benefits"
+        }
+      ]
+    }
+  ]
+}
